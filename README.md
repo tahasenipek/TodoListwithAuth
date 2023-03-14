@@ -1,7 +1,7 @@
 <div>
   <h3> About this Project <h3>
     Pull the repo and add firstly .env file. <br>
-    Connect your databe in local. <br>
+    Connect your database in local. <br>
     Run "php artisan serve" and "npm install && npm run dev" at the same time. Diffrent shell. <br>
     Local host is ready. <br>
     Enjoy it. <br>
