@@ -1,9 +1,9 @@
 <div>
   <h3> About this Project <h3>
-    Pull the repo and add firstly .env file. <br>
-    Connect your database in local. <br>
-    Run "php artisan serve" and "npm install && npm run dev" at the same time. Diffrent shell. <br>
-    Local host is ready. <br>
+    Clone the repo and add .env file first. <br>
+    Connect your database locally. <br>
+    Run "php artisan serve" and "npm install && npm run dev" simultaneously in different shell. <br>
+    The local host is ready. <br>
     Enjoy it. <br>
     </div>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
